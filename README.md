@@ -14,3 +14,5 @@ These two files are the final project report developed with the help of the dash
 ## 6. Project Insights ppt.pptx
 This presentation provides the project insights developed from the data 
 
+- For viewing the final result of the project you may please look into the files mentioned in points 5 and 6
+- For viewing the live dashboard you may please look in the file mentioned in point 4
